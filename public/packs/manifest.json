@@ -9,6 +9,17 @@
       "js.map": [
         "/packs/js/application-bbe9c4a129ab949e0636.js.map"
       ]
+    },
+    "spotcode": {
+      "js": [
+        "/packs/js/spotcode-a302d7d7212097f63a99.js"
+      ],
+      "js.map": [
+        "/packs/js/spotcode-a302d7d7212097f63a99.js.map"
+      ]
     }
-  }
+  },
+  "media/images/logo.png": "/packs/media/images/logo-f1fdf069.png",
+  "spotcode.js": "/packs/js/spotcode-a302d7d7212097f63a99.js",
+  "spotcode.js.map": "/packs/js/spotcode-a302d7d7212097f63a99.js.map"
 }
